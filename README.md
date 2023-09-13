@@ -10,7 +10,8 @@ Skills: Python / GIS / Excel
 - 🌱 I’m currently learning Arcpy attribute 
 - 💬 Ask me about python / ArcGis Pro / Comic 
 
-![ArcGis Pro](https://github.com/97mohatah/97mohatah/assets/131670439/6897dfa1-93a4-448a-8680-41a4239235ee)
+![ArcGis Pro](https://github.com/97mohatah/97mohatah/assets/131670439/f52d39bd-0f49-4478-882d-fc8a393194c8)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/97mohatah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mttaherpoor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mttaherpoor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](mtaherpoor)  
