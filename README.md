@@ -6,7 +6,7 @@ BSc in Civil Engineering in UT
 
 Skills: Python / GIS / Excel 
 
-- 🔭 I’m currently working on thesis on Tramay 
+- 🔭 I’m currently working on thesis on Tramway
 - 🌱 I’m currently learning Arcpy attribute 
 - 💬 Ask me about python / ArcGis Pro / Comics(marvel|Star wars)
 
