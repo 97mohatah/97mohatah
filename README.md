@@ -1,6 +1,6 @@
 ### [Hello there](https://youtu.be/rEq1Z0bjdwc) 👋, my name is Taher
 #### I am GIS Developer
-Ma in Urban Management in UT
+MSc in Urban Management in UT
 
 BSc in Civil Engineering in UT
 
